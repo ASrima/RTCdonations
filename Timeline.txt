@@ -1,0 +1,8 @@
+By Feb 12:
+(Prakhya) - html layout of page pushed to github, along with some JS features, as well as deciding what we want to do for a mobile application 
+
+By Feb 19:
+(Prakhya) - begin with helping build a mobile application
+
+By Feb 26:
+(Prakhya)-
